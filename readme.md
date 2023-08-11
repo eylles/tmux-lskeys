@@ -3,7 +3,7 @@
 <img src="./screenshot.png">
 
 
-a prettier list-keys for tmuxa
+a prettier list-keys for tmux
 
 
 ## installation
